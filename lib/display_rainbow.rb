@@ -4,3 +4,5 @@ rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 def display_rainbow(color)
   puts "R: #{rainbow[0]}"
 end
+
+display_rainbow(color)
